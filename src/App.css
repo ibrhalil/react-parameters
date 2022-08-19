@@ -1,0 +1,16 @@
+html {
+    font-family: sans-serif;
+}
+
+input {
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #999;
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    max-height: 46px !important;
+}
